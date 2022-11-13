@@ -20,15 +20,15 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ---
-### :man_technologist: About Me :
-### I am an IT Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from The Netherlands.
+:man_technologist: About Me :
+I am an IT Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from The Netherlands.
 - :telescope: I’m studying at Fontys Hogeschool in the Netherlands.
 
 - :zap: In my free time, I'm working on my own homelab.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/randy-kramer-593ab1220)
 ---
-### :hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools :
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;

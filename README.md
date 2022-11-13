@@ -22,6 +22,7 @@
 ---
 :man_technologist: About Me :
 I am an IT Student from The Netherlands.
+
 - :telescope: I’m studying at Fontys Hogeschool in the Netherlands.
 
 - :zap: In my free time, I'm working on my own homelab.

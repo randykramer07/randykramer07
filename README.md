@@ -19,6 +19,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
 :man_technologist: About Me :
@@ -39,6 +40,7 @@ I am an IT Student from The Netherlands.
   <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg" title="Putty" alt="Putty" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/481px-Vmware_workstation_16_icon.svg.png" title="VMWare" alt="VMWare" width="40" height="40"/>&nbsp;
 </div>
+
 ---
 
 :fire: My Stats :

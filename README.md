@@ -35,7 +35,11 @@ I am an IT Student from The Netherlands.
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg" title="Putty" alt="Putty" width="40" height="40"/>&nbsp;
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/481px-Vmware_workstation_16_icon.svg.png" title="VMWare" alt="VMWare" width="40" height="40"/>&nbsp;
 </div>
 ---
 :fire: My Stats :

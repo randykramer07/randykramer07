@@ -21,7 +21,7 @@
 </div>
 ---
 :man_technologist: About Me :
-I am an IT Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from The Netherlands.
+I am an IT Student from The Netherlands.
 - :telescope: I’m studying at Fontys Hogeschool in the Netherlands.
 
 - :zap: In my free time, I'm working on my own homelab.

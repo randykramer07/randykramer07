@@ -26,9 +26,8 @@
 
 - :zap: In my free time, I'm working on my own homelab.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/randy-kramer-593ab1220)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/randy-kramer-593ab1220)
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   
@@ -37,7 +36,6 @@
   
 </div>
 ---
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=randykramer07&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randykramer07)](https://github.com/anuraghazra/github-readme-stats)
